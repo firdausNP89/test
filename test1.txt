@@ -1,1 +1,2 @@
 commit pertama
+perubahan pertama oleh dev 1
